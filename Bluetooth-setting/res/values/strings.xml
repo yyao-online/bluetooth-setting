@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth-setting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_off">After open the bluetooth device, your device can communicate with other bluetooth devices nearby.</string>
+
+    <!-- 其他蓝牙设备检测不到此设备 -->
+    <string name="msg_scanmode_1">Other bluetooth devices cannot discover the device.</string>
+    
+    <!-- 附近所有蓝牙设备均可检测到此设备 -->
+    <string name="msg_scanmode_2">All bluetooth devices nearby all can discover the device.</string>
+    
+</resources>
